@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.134:
-  version "1.0.134"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.134.tgz#bc12e379f8308a8007de3f251e13d24146e9e780"
-  integrity sha512-qZ8/+oDrHhBB/R7LerUQ1yJLC3WeEOUPF521XpW0a4l55LPOEzQx4QHRAnIMXge3abtFtQt/yMpxF3PUGoa5Gw==
+any-prebuilt@1.0.135:
+  version "1.0.135"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.135.tgz#c06c564f82c3f8a870b75f01a86465d005881c27"
+  integrity sha512-PfaWblWe5tTE0b1+pnhPVRnTqtxK7XJ7168I6kXFFMwbMr7gsHFLjY/z2R1+SYi7MWX5cpnjD13dXwDv4kdqcw==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "10.1.0"
