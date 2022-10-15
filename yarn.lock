@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.141:
-  version "1.0.141"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.141.tgz#88be70b995d37d9ece964aa8591889f336a01d51"
-  integrity sha512-WaQLH1g+eC5bQDjlH9ezsT58FveBR3Yqe6RX4CoKgtX0q4RgRHg2uKo2Ng5SFRs36UmUBGEyw81M/9GDJEq49A==
+any-prebuilt@1.0.142:
+  version "1.0.142"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.142.tgz#d80b67ffe957e68f8fbc89a3a090a431a50ff84d"
+  integrity sha512-Yn1zJW1A1NOLs75T2FZLkrL7TDb9jQxpyaIXkpCvxUjKyAHdI9Lnbm4pnhqINVUZ4bZBR6DPYiR4G48Jiku2Lw==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "10.1.0"
@@ -442,9 +442,9 @@ minimatch@^3.1.1:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.6:
-  version "1.2.6"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
-  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.7.tgz#daa1c4d91f507390437c6a8bc01078e7000c4d18"
+  integrity sha512-bzfL1YUZsP41gmu/qjrEk0Q6i2ix/cVeAhbCbqH9u3zYutS1cLg00qhrD0M2MVdCcx4Sc0UpP2eBWo9rotpq6g==
 
 mkdirp-classic@^0.5.2:
   version "0.5.3"
