@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.162:
-  version "1.0.162"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.162.tgz#c8f378204f642f73828f39ec3db5eb1af9850362"
-  integrity sha512-un/48okcKGnuIuPxuIivdhtj+s0Nj9RMmVHojJbI08fB2XeJ8CHAApQJyF9YnRnGtlQ0scdyutJhTwRlcMqWsA==
+any-prebuilt@1.0.163:
+  version "1.0.163"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.163.tgz#b257dbae35d3534e58aa27ed133d5715df686cdc"
+  integrity sha512-et9JikgjZiY6V7Wxjl2QptuvAeq4DN/65yKxN0GNcF+OPr7iD+GnNZhGXBrnqd/dKsYm0WYIqsCE/BtNhIvm2g==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "11.1.0"
@@ -292,9 +292,9 @@ glob@^7.1.3:
     path-is-absolute "^1.0.0"
 
 graceful-fs@^4.1.3, graceful-fs@^4.1.6, graceful-fs@^4.2.0:
-  version "4.2.10"
-  resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.10.tgz#147d3a006da4ca3ce14728c7aefc287c367d7a6c"
-  integrity sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==
+  version "4.2.11"
+  resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.11.tgz#4183e4e8bf08bb6e05bbb2f7d2e0c8f712ca40e3"
+  integrity sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==
 
 gunzip-maybe@1.4.2:
   version "1.4.2"
