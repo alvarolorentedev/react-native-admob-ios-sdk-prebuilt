@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.170:
-  version "1.0.170"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.170.tgz#ee5d192d7a187ec7cb8a2786b934a80d754410c3"
-  integrity sha512-lppjqmBkv0cZxOHnzB2sEecCJXMB6Xib3bmUaT77PsmLms3q6xEcUG8Gjqkn0GSJtQo1iyut9MEMB9ZmuVM4IQ==
+any-prebuilt@1.0.171:
+  version "1.0.171"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.171.tgz#b794db2328e250c8c0de285a5825fbb5f1a0079e"
+  integrity sha512-+VHEfQ9QprQ2VgEks4byTWUuKlXFY+RkugSRbL5uGW6V3V7oxucnfoxqJubMXkgM6Q03ZZ/B/gtOcBv09oG7DA==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "11.1.1"
@@ -28,7 +28,7 @@ any-prebuilt@1.0.170:
     progress "2.0.3"
     request "2.88.2"
     request-promise-native "1.0.9"
-    tar-fs "3.0.3"
+    tar-fs "3.0.4"
     temp "0.9.4"
 
 asn1@~0.2.3:
@@ -678,19 +678,19 @@ string_decoder@~1.1.1:
   dependencies:
     safe-buffer "~5.1.0"
 
-tar-fs@3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/tar-fs/-/tar-fs-3.0.3.tgz#6593e7df92f337e74d755be183a192213d923050"
-  integrity sha512-ZK36riGYnFI6LujIBfBRoDfeaaWUkStIFKwtPjnDWCKnsDE9kuQthG09aQjLjpzoRtVElEMZ/AIAURNb7N9mkA==
+tar-fs@3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/tar-fs/-/tar-fs-3.0.4.tgz#a21dc60a2d5d9f55e0089ccd78124f1d3771dbbf"
+  integrity sha512-5AFQU8b9qLfZCX9zp2duONhPmZv0hGYiBPJsyUdqMjzq/mqVpy/rEUSeHk1+YitmxugaptgBh5oDGU3VsAJq4w==
   dependencies:
     mkdirp-classic "^0.5.2"
     pump "^3.0.0"
-    tar-stream "^3.1.0"
+    tar-stream "^3.1.5"
 
-tar-stream@^3.1.0:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/tar-stream/-/tar-stream-3.1.4.tgz#a06c3cefe558f8a5a6e88ddfbf6471782ad8dd42"
-  integrity sha512-IlHr7ZOW6XaVBCrSCokUJG4IqUuRcWW76B8XbrtCotbaDh6zVGE7WPCzaSz1CN+acFmWiwoa+cE4RZsom0RzXg==
+tar-stream@^3.1.5:
+  version "3.1.6"
+  resolved "https://registry.yarnpkg.com/tar-stream/-/tar-stream-3.1.6.tgz#6520607b55a06f4a2e2e04db360ba7d338cc5bab"
+  integrity sha512-B/UyjYwPpMBv+PaFSWAmtYjwdrlEaZQEhMIBFNC5oEG8lpiW8XjcSdmEaClj28ArfKScKHs2nshz3k2le6crsg==
   dependencies:
     b4a "^1.6.4"
     fast-fifo "^1.2.0"
