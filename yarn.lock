@@ -17,13 +17,13 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.192:
-  version "1.0.192"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.192.tgz#73184f9208a253d0337690e1576961123f14ad77"
-  integrity sha512-QUcbvnXkPzFpAodwvLIADDS1siHsT3rJrT9dTVquBgsRuwGRXeu1Ieb+N02vrROgOC0TbVTR8ZKINMEPl9niJw==
+any-prebuilt@1.0.193:
+  version "1.0.193"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.193.tgz#91ef5bf45977a87ea60f5eab7fbf5fe621588455"
+  integrity sha512-n10xtIHbLdasYS6G3LvzaUVtp87l5//13Bes8RBLa4EIGxAlqC+9yWgZPM9Oe4FCk1iasKhTRSn/MvkKh1o2kw==
   dependencies:
     decompress-zip "0.3.3"
-    fs-extra "11.1.1"
+    fs-extra "11.2.0"
     gunzip-maybe "1.4.2"
     progress "2.0.3"
     request "2.88.2"
@@ -236,10 +236,10 @@ form-data@~2.3.2:
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
 
-fs-extra@11.1.1:
-  version "11.1.1"
-  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.1.1.tgz#da69f7c39f3b002378b0954bb6ae7efdc0876e2d"
-  integrity sha512-MGIE4HOvQCeUCzmlHs0vXpih4ysz4wg9qiSAu6cd42lVwPbTM1TjV7RusoyQqMmk/95gdQZX72u+YW+c3eEpFQ==
+fs-extra@11.2.0:
+  version "11.2.0"
+  resolved "https://registry.yarnpkg.com/fs-extra/-/fs-extra-11.2.0.tgz#e70e17dfad64232287d01929399e0ea7c86b0e5b"
+  integrity sha512-PmDi3uwK5nFuXh7XDTlVnS17xJS7vW36is2+w3xcv8SVxiB4NyATf4ctkVY5bkSjX0Y4nbvZCq1/EjtEyr9ktw==
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
@@ -659,9 +659,9 @@ stream-shift@^1.0.0:
   integrity sha512-AiisoFqQ0vbGcZgQPY1cdP2I76glaVA/RauYR4G4thNFgkTqr90yXTo4LYX60Jl+sIlPNHHdGSwo01AvbKUSVQ==
 
 streamx@^2.15.0:
-  version "2.15.5"
-  resolved "https://registry.yarnpkg.com/streamx/-/streamx-2.15.5.tgz#87bcef4dc7f0b883f9359671203344a4e004c7f1"
-  integrity sha512-9thPGMkKC2GctCzyCUjME3yR03x2xNo0GPKGkRw2UMYN+gqWa9uqpyNWhmsNCutU5zHmkUum0LsCRQTXUgUCAg==
+  version "2.15.6"
+  resolved "https://registry.yarnpkg.com/streamx/-/streamx-2.15.6.tgz#28bf36997ebc7bf6c08f9eba958735231b833887"
+  integrity sha512-q+vQL4AAz+FdfT137VF69Cc/APqUbxy+MDOImRrMvchJpigHj9GksgDU2LYbO9rx7RX6osWgxJB2WxhYv4SZAw==
   dependencies:
     fast-fifo "^1.1.0"
     queue-tick "^1.0.1"
