@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.196:
-  version "1.0.196"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.196.tgz#cec87818af3e0ad70b491ce1352c122a625189e6"
-  integrity sha512-iQXRPOZjnsaR7L+w5MN4Eu5iHwVwXWY4XI6agGFPZi1Y7tZtYlbqVt2XW0KH3kp94z+sNd/UrTpadvXjtLEdpw==
+any-prebuilt@1.0.197:
+  version "1.0.197"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.197.tgz#1557de1d30cbcaf2f32007980b5352e3da8185ef"
+  integrity sha512-pOahc/1qOaJE7G6+J3T5Ewed8uF0V+W75g++7hCBWdyvv2M4nJKuPm1ZEyOVR20lN/M+ilLqszc9IDxHiK+Ahw==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "11.2.0"
@@ -654,9 +654,9 @@ stealthy-require@^1.1.1:
   integrity sha512-ZnWpYnYugiOVEY5GkcuJK1io5V8QmNYChG62gSit9pQVGErXtrKuPC55ITaVSukmMta5qpMU7vqLt2Lnni4f/g==
 
 stream-shift@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/stream-shift/-/stream-shift-1.0.1.tgz#d7088281559ab2778424279b0877da3c392d5a3d"
-  integrity sha512-AiisoFqQ0vbGcZgQPY1cdP2I76glaVA/RauYR4G4thNFgkTqr90yXTo4LYX60Jl+sIlPNHHdGSwo01AvbKUSVQ==
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/stream-shift/-/stream-shift-1.0.2.tgz#548bff71c92322e1ade886979f7f67c0723eb9e4"
+  integrity sha512-rV4Bovi9xx0BFzOb/X0B2GqoIjvqPCttZdu0Wgtx2Dxkj7ETyWl9gmqJ4EutWRLvtZWm8dxE+InQZX1IryZn/w==
 
 streamx@^2.15.0:
   version "2.15.6"
