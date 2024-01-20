@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.197:
-  version "1.0.197"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.197.tgz#1557de1d30cbcaf2f32007980b5352e3da8185ef"
-  integrity sha512-pOahc/1qOaJE7G6+J3T5Ewed8uF0V+W75g++7hCBWdyvv2M4nJKuPm1ZEyOVR20lN/M+ilLqszc9IDxHiK+Ahw==
+any-prebuilt@1.0.198:
+  version "1.0.198"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.198.tgz#bdbb6e170c7afb485a9fa004a8cb71e5b0e1f88a"
+  integrity sha512-b4k6BFLYK4517bwkMXwDCZnYnlYM4BbV+dZVw0WY9vbey/39oNe4o7E+q/yG+tnWX33n6G5bD+/3BhZSckAKoA==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "11.2.0"
@@ -654,9 +654,9 @@ stealthy-require@^1.1.1:
   integrity sha512-ZnWpYnYugiOVEY5GkcuJK1io5V8QmNYChG62gSit9pQVGErXtrKuPC55ITaVSukmMta5qpMU7vqLt2Lnni4f/g==
 
 stream-shift@^1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/stream-shift/-/stream-shift-1.0.2.tgz#548bff71c92322e1ade886979f7f67c0723eb9e4"
-  integrity sha512-rV4Bovi9xx0BFzOb/X0B2GqoIjvqPCttZdu0Wgtx2Dxkj7ETyWl9gmqJ4EutWRLvtZWm8dxE+InQZX1IryZn/w==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/stream-shift/-/stream-shift-1.0.3.tgz#85b8fab4d71010fc3ba8772e8046cc49b8a3864b"
+  integrity sha512-76ORR0DO1o1hlKwTbi/DM3EXWGf3ZJYO8cXX5RJwnul2DEg2oyoZyjLNoQM8WsvZiFKCRfC1O0J7iCvie3RZmQ==
 
 streamx@^2.15.0:
   version "2.15.6"
@@ -688,9 +688,9 @@ tar-fs@3.0.4:
     tar-stream "^3.1.5"
 
 tar-stream@^3.1.5:
-  version "3.1.6"
-  resolved "https://registry.yarnpkg.com/tar-stream/-/tar-stream-3.1.6.tgz#6520607b55a06f4a2e2e04db360ba7d338cc5bab"
-  integrity sha512-B/UyjYwPpMBv+PaFSWAmtYjwdrlEaZQEhMIBFNC5oEG8lpiW8XjcSdmEaClj28ArfKScKHs2nshz3k2le6crsg==
+  version "3.1.7"
+  resolved "https://registry.yarnpkg.com/tar-stream/-/tar-stream-3.1.7.tgz#24b3fb5eabada19fe7338ed6d26e5f7c482e792b"
+  integrity sha512-qJj60CXt7IU1Ffyc3NJMjh6EkuCFej46zUqJ4J7pqYlThyd9bO0XBTmcOIhSzZJVWfsLks0+nle/j538YAW9RQ==
   dependencies:
     b4a "^1.6.4"
     fast-fifo "^1.2.0"
