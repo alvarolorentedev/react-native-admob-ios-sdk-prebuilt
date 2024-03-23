@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.206:
-  version "1.0.206"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.206.tgz#a5b45bc8db4a66f2ef7412567d3d2fef3cb3f6db"
-  integrity sha512-EyzzQXol9DZKVZ3idvYBbwOokB4kQB2UGpuTo0hbNl/9DofZ8xGfSCXm6KH2SEL/gYIkgaCr+zdzyo6/LjzdDg==
+any-prebuilt@1.0.207:
+  version "1.0.207"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.207.tgz#444d096b634d7511c2145eae2419b90aea630484"
+  integrity sha512-3uX5AVHmT2Kvrk/4msIajcX2z7e/PiGEDkhiDaxSA2UsTgskehGO3nWc+g5CgQcD982f7YJIfhvlCy0wTx850w==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "11.2.0"
@@ -69,9 +69,9 @@ balanced-match@^1.0.0:
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
 bare-events@^2.0.0, bare-events@^2.2.0:
-  version "2.2.1"
-  resolved "https://registry.yarnpkg.com/bare-events/-/bare-events-2.2.1.tgz#7b6d421f26a7a755e20bf580b727c84b807964c1"
-  integrity sha512-9GYPpsPFvrWBkelIhOhTWtkeZxVxZOdb3VnFTCzlOo3OjvmTvzLoZFUT8kNFACx0vJej6QPney1Cf9BvzCNE/A==
+  version "2.2.2"
+  resolved "https://registry.yarnpkg.com/bare-events/-/bare-events-2.2.2.tgz#a98a41841f98b2efe7ecc5c5468814469b018078"
+  integrity sha512-h7z00dWdG0PYOQEvChhOSWvOfkIKsdZGkWr083FgN/HyoQuebSew/cgirYqh9SCuy/hRvxc5Vy6Fw8xAmYHLkQ==
 
 bare-fs@^2.1.1:
   version "2.2.2"
