@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.220:
-  version "1.0.220"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.220.tgz#ed7a67fd69f1559cf8c242a72ec06ea4b5f5df79"
-  integrity sha512-OhjPBXH3v/bGP9cpeqiitqRlZdyKe7hM2EY+H4jVn6QSot+2PsC78B8N1kmKj1ogg5F9sdamZdp0GIb531XQaA==
+any-prebuilt@1.0.221:
+  version "1.0.221"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.221.tgz#db42e07e8948a57561f45f2065d889b8176f436c"
+  integrity sha512-aH73zmQW++EILJC5Isjp/L6l+2+aIoEAc2W681ZCw3PfI3eByxu/STLTo7RMlEn99yQ8FzgaF7hiRdTBHLFX8g==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "11.2.0"
@@ -738,9 +738,9 @@ temp@0.9.4:
     rimraf "~2.6.2"
 
 text-decoder@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/text-decoder/-/text-decoder-1.1.0.tgz#3379e728fcf4d3893ec1aea35e8c2cac215ef190"
-  integrity sha512-TmLJNj6UgX8xcUZo4UDStGQtDiTzF7BzWlzn9g7UWrjkpHr5uJTK1ld16wZ3LXb2vb6jH8qU89dW5whuMdXYdw==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/text-decoder/-/text-decoder-1.1.1.tgz#5df9c224cebac4a7977720b9f083f9efa1aefde8"
+  integrity sha512-8zll7REEv4GDD3x4/0pW+ppIxSNs7H1J10IKFZsuOMscumCdM2a+toDGLPA3T+1+fLBql4zbt5z83GEQGGV5VA==
   dependencies:
     b4a "^1.6.4"
 
