@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.224:
-  version "1.0.224"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.224.tgz#20828d072b94eb88d75e41839dd11bd15e35ef40"
-  integrity sha512-SsXDd0Cc1cJt50ohivHRvQyNvOoSCy4bgv5MtoxEidzOiiwzZDJ3VO8xGp2zofe3I7qEYic6Y6aup40UzSQGyw==
+any-prebuilt@1.0.225:
+  version "1.0.225"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.225.tgz#0ba44d05cce0b4b3cdce3827b428510365d41c59"
+  integrity sha512-yZDJEChzJp/5mJxDyP5RTMhv4Vk6wnvpXb4j4Y4S/i953VdzAGO+ajWGN/gtT7srsx8Es15WXRw9aIfOcCqDXg==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "11.2.0"
@@ -54,9 +54,9 @@ aws-sign2@~0.7.0:
   integrity sha512-08kcGqnYf/YmjoRhfxyu+CLxBjUtHLXLXX/vUfx9l2LYzG3c1m61nrpyFUZI6zeS+Li/wWMMidD9KgrqtGq3mA==
 
 aws4@^1.8.0:
-  version "1.13.0"
-  resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.13.0.tgz#d9b802e9bb9c248d7be5f7f5ef178dc3684e9dcc"
-  integrity sha512-3AungXC4I8kKsS9PuS4JH2nc+0bVY/mjgrephHTIi8fpEeGsTHBUJeosp0Wc1myYMElmD0B3Oc4XL/HVJ4PV2g==
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/aws4/-/aws4-1.13.1.tgz#bb5f8b8a20739f6ae1caeaf7eea2c7913df8048e"
+  integrity sha512-u5w79Rd7SU4JaIlA/zFqG+gOiuq25q5VLyZ8E+ijJeILuTxVzZgp2CaGw/UTw6pXYN9XMO9yiqj/nEHmhTG5CA==
 
 b4a@^1.6.4:
   version "1.6.6"
