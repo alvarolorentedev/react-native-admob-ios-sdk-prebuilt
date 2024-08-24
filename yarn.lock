@@ -17,10 +17,10 @@ ajv@^6.12.3:
     json-schema-traverse "^0.4.1"
     uri-js "^4.2.2"
 
-any-prebuilt@1.0.226:
-  version "1.0.226"
-  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.226.tgz#82d4027a590c77d49e85f5c17750bb1be0798d14"
-  integrity sha512-3vrsaCunleGQwnShivqo63erXm1qnfReuN1aNN/3ilXi7TWwAVRhGreEoJeaGhpQpUqZGBENVZa/AfPn4SEh4g==
+any-prebuilt@1.0.227:
+  version "1.0.227"
+  resolved "https://registry.yarnpkg.com/any-prebuilt/-/any-prebuilt-1.0.227.tgz#ad10ea9d8ef2767230dc24b11a2c47d2c4d887f2"
+  integrity sha512-7vs7zUTxz3G0R+0R7vWhnDMzYiXyjepYu8UzsCHYtnk66vduu72KH5JWuCH654GCCNwshjhYQMLj3/WIPLqOQg==
   dependencies:
     decompress-zip "0.3.3"
     fs-extra "11.2.0"
@@ -687,9 +687,9 @@ stream-shift@^1.0.0:
   integrity sha512-76ORR0DO1o1hlKwTbi/DM3EXWGf3ZJYO8cXX5RJwnul2DEg2oyoZyjLNoQM8WsvZiFKCRfC1O0J7iCvie3RZmQ==
 
 streamx@^2.15.0, streamx@^2.18.0:
-  version "2.18.0"
-  resolved "https://registry.yarnpkg.com/streamx/-/streamx-2.18.0.tgz#5bc1a51eb412a667ebfdcd4e6cf6a6fc65721ac7"
-  integrity sha512-LLUC1TWdjVdn1weXGcSxyTR3T4+acB6tVGXT95y0nGbca4t4o/ng1wKAGTljm9VicuCVLvRlqFYXYy5GwgM7sQ==
+  version "2.19.0"
+  resolved "https://registry.yarnpkg.com/streamx/-/streamx-2.19.0.tgz#c66a43ad667539e81967d1bacc68c1575eb9fdde"
+  integrity sha512-5z6CNR4gtkPbwlxyEqoDGDmWIzoNJqCBt4Eac1ICP9YaIT08ct712cFj0u1rx4F8luAuL+3Qc+RFIdI4OX00kg==
   dependencies:
     fast-fifo "^1.3.2"
     queue-tick "^1.0.1"
