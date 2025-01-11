@@ -69,9 +69,9 @@ balanced-match@^1.0.0:
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
 bare-events@^2.0.0, bare-events@^2.2.0:
-  version "2.5.1"
-  resolved "https://registry.yarnpkg.com/bare-events/-/bare-events-2.5.1.tgz#052a96e3fc0e87cd9f226199d7f8a80cd87b6d21"
-  integrity sha512-Bw2PgKSrZ3uCuSV9WQ998c/GTJTd+9bWj97n7aDQMP8dP/exAZQlJeswPty0ISy+HZD+9Ex+C7CCnc9Q5QJFmQ==
+  version "2.5.4"
+  resolved "https://registry.yarnpkg.com/bare-events/-/bare-events-2.5.4.tgz#16143d435e1ed9eafd1ab85f12b89b3357a41745"
+  integrity sha512-+gFfDkR8pj4/TrWCGUGWmJIkBwuxPS5F+a5yWjOHQt2hHvNZd5YLzadjmDUtFmMM4y429bnKLa8bYBMHcYdnQA==
 
 bare-fs@^2.1.1:
   version "2.3.5"
